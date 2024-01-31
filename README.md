@@ -1,3 +1,15 @@
+# Palworld 도감 검색 도구
+
+Palworld 의 Pal 속성을 입력하고 검색하는 도구입니다.
+
+# 개발 도구
+
+- SvelteKit
+- VS Code
+
+
+------
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).

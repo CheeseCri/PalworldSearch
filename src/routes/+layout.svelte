@@ -23,7 +23,6 @@
     <NavHamburger />
     <NavUl {activeUrl}>
         <NavLi href="/">Home</NavLi>
-        <NavLi href="/input">About</NavLi>
-        <NavLi href="/search">Navbar</NavLi>
+        <NavLi href="/search">도감 검색</NavLi>
     </NavUl>
 </Navbar>
